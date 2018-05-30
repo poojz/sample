@@ -1,0 +1,5 @@
+hi
+password=345
+hi password=389
+pass
+<android name="server_password">
